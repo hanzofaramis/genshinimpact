@@ -1,14 +1,14 @@
 {
-    "name": "Save Restricted Bot",
-    "description": "Saves restricted content",
+    "name": "Genshin Impact",
+    "description": "Genshin Impact Updates",
     "logo": "",
     "keywords": [
-        "A",
-        "telegram",
-        "save restricted",
+        "Genshin",
+        "Impact Update",
+        "Telegram",
         "bot"
     ],
-    "repository": "https://github.com/ymwd/anktsavecont.2",
+    "repository": "https://github.com/hanzofaramis/genshinimpact",
     "website": "",
     "success_url": "https://t.me/url_uploader_A",
     "env": {
